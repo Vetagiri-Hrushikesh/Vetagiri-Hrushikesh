@@ -1,3 +1,5 @@
+
+<img align="center" alt="GIF" src="https://github.com/Vetagiri-Hrushikesh/Vetagiri-Hrushikesh/blob/main/Cover.gif?raw=true"/>
 <h1 align="center">Hi 👋, I'm Hrushikesh</h1>
 <h3 align="center">A passionate developer</h3>
 
