@@ -56,7 +56,7 @@ I am a seasoned IT Software Engineer with over 4 years of dedicated experience. 
 
 I am passionate about leveraging my skills to contribute to cutting-edge projects and embrace challenges that drive innovation in the IT landscape 💡. My dedication to excellence, combined with a keen entrepreneurial spirit, fuels my commitment to deliver exceptional results.
 
-[Download CV](Resume/Resume.pdf)
+[Download CV](Resume.pdf)
 
 <!-- Contact Me Section -->
 ## Contact Me
