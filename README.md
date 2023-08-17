@@ -29,6 +29,9 @@
 - **Aquaponics Management System (AMS)**
   Developed the Aquaponics Management System (AMS) at Maigha Inc., involving Raspberry PI3 integration with Node.js server using TCP protocol. Led the storage of sensor data in MySQL for analysis. Contributed to GUI, database schema, and REST service development. Customized authentication, conducted testing, and worked on efficient TCP data transmission. Currently exploring Full Stack Serial Port Communication Interface for Raspberry PI.
 
+- **Website-to-Mobile App Conversion Tool**
+  Created an innovative project enabling the transformation of website URLs into functional iOS and Android apps effortlessly. Leveraged React Native to ensure a seamless and native app experience, complete with dynamic content loading. The project showcases my ability to bridge web and mobile technologies effectively, offering a practical solution for bringing web content to a broader mobile audience.
+
 <!-- About Me Section -->
 ## About Me
 
